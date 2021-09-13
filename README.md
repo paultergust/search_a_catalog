@@ -26,10 +26,10 @@ Então a solução que encontrei foi utilizar uma estrutura "dicionário" do pr�
 
 ```python
 produto = {
-    'id': {
-        'id':'int',
-        'name':'str',
-        'price':'float'
+    id: {
+        id:'int',
+        name:'str',
+        price:float
     }
 }
 ```
@@ -46,6 +46,6 @@ Tanto a preparação da estrutura (executada apenas no início do programa) quan
 
 2. Qual estrutura de dados você escolheu e por que?
 
-Escolhi uma estrutura "dicionário" justamente por ser uma estrutura que permite uma boa performance sem adicionar complexidade desnecessária ao projeto.o
+Escolhi uma estrutura "dicionário" justamente por ser uma estrutura que permite uma boa performance sem adicionar complexidade desnecessária ao projeto.
 
 
